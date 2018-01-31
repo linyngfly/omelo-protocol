@@ -1,46 +1,51 @@
 {
-  "_from": "pomelo-protocol@0.1.6",
-  "_id": "pomelo-protocol@0.1.6",
-  "_inBundle": false,
-  "_integrity": "sha1-0+DLU5JZY1wodTh3hSoNN9udMTs=",
-  "_location": "/pomelo-protocol",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "pomelo-protocol@0.1.6",
-    "name": "pomelo-protocol",
-    "escapedName": "pomelo-protocol",
-    "rawSpec": "0.1.6",
-    "saveSpec": null,
-    "fetchSpec": "0.1.6"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/pomelo-protocol/-/pomelo-protocol-0.1.6.tgz",
-  "_shasum": "d3e0cb539259635c28753877852a0d37db9d313b",
-  "_spec": "pomelo-protocol@0.1.6",
-  "_where": "E:\\develop\\lib\\omelo\\omelo",
-  "bundleDependencies": false,
-  "contributors": [
-    {
-      "name": "* piaohai",
-      "email": "yaopiaohai@corp.netease.com"
-    },
-    {
-      "name": "Focus on OpenSource and Performance"
-    }
-  ],
-  "dependencies": {},
+  "name": "omelo-protocol",
+  "version": "0.1.6",
+  "private": false,
   "deprecated": false,
-  "description": "Encode and decode binary protocol for Pomelo framework.",
+  "description": "Encode and decode binary protocol for Pomelo framework",
+  "engines": {
+    "node": "8.9.0"
+  },
+  "main": "index",
+  "author": {
+    "name": "linyngfly",
+    "email": "linyngfly@163.com"
+  },
+  "homepage": "https://github.com/linyngfly",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linyngfly/omelo-protocol.git"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "bugs": {
+    "url": "https://github.com/linyngfly/omelo-protocol/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/linyngfly/omelo-protocol#license"
+  }],
+  "keywords": [
+    "omelo-protocol",
+    "pomelo",
+    "framework",
+    "game",
+    "web",
+    "realtime",
+    "server"
+  ],
+
+  "dependencies": {},
+
   "devDependencies": {
     "jscoverage": ">=0.0.1",
     "mocha": ">=0.0.1",
     "should": ">=0.0.1"
   },
-  "name": "pomelo-protocol",
-  "private": false,
-  "version": "0.1.6"
+  "contributors": [{
+    "name": "linyngfly",
+    "email": "linyngfly@163.com"
+  }]
 }
