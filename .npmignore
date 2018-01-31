@@ -12,3 +12,4 @@ node_modules/*
 *.swp
 coverage.html
 lib-cov/
+.git/*
