@@ -1,8 +1,8 @@
 {
-  "name": "pomelo-protocol",
-  "description": "pomelo-protocol",
+  "name": "omelo-protocol",
+  "description": "omelo-protocol",
   "keywords": [
-    "pomelo",
+    "omelo",
     "protocol"
   ],
   "version": "0.1.3",
@@ -10,5 +10,5 @@
   "scripts": [
     "lib/protocol.js"
   ],
-  "repo": "https://github.com/NetEase/pomelo-protocol"
+  "repo": "https://github.com/NetEase/omelo-protocol"
 }
