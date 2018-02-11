@@ -1,6 +1,6 @@
 {
   "name": "omelo-protocol",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "private": false,
   "deprecated": false,
   "description": "Encode and decode binary protocol for Pomelo framework",
